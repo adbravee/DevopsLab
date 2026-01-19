@@ -9,7 +9,7 @@
 <body>
 
     <!-- Header -->
-    <header>
+    <header><a> wazzap </a>
         <h1>Your Name</h1>
         <p>Web Developer | Designer | Student</p>
     </header>
